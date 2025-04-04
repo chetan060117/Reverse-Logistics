@@ -50,7 +50,7 @@ Grouped raw size data into standardized categories to facilitate analysis.
 
 Data Visualization:
 
-Developed interactive dashboards using Power BI/Tableau to visualize:
+Developed interactive dashboards using Power BI to visualize:
 
 Delivery performance vs. return rates.
 
