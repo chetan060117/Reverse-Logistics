@@ -83,3 +83,5 @@ Middle-aged customers (ages 30 to 60) display more stable and lower return rates
 Data Cleaning & Analysis: Python (Pandas, NumPy)
 
 Data Visualization: Power BI
+
+![Screenshot (139)](https://github.com/user-attachments/assets/1e8f3543-0a9d-4f8a-9a7c-716df343248f)
